@@ -4,7 +4,7 @@
 </head>
 
 <div style="display: flex; align-items: center;">
-  <div>
+  <div style="width: 60%; padding-right: 20px;">
     <!-- Department Information -->
     <p style="font-size: 16px; text-align: center; margin-top: 20px;">
       Dept of Computer Science and Automation<br>
@@ -32,8 +32,8 @@
   </div>
 
   <!-- Image -->
-  <div>
-    <img src="images/AshwinPrasad.jpg" alt="Ashwin Prasad" style="width: 400px; margin-right: 10px;">
+  <div style="width: 40%;">
+    <img src="images/AshwinPrasad.jpg" alt="Ashwin Prasad" style="width: 100%; max-width: 400px;">
   </div>
 </div>
 I am a PhD candidate in the <a href="https://www.csa.iisc.ac.in/" target="_blank"> Department of Computer Science and Automation</a> at the <a href="https://iisc.ac.in/">Indian
