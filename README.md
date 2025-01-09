@@ -49,23 +49,47 @@ In particular, I am interested in designing systems that enable high-productivit
 ## Publications
 
 <span style="font-weight: bold;">SilvanForge: A Schedule Guided Retargetable Compiler for Decision Tree Inference</span><br>
-<span style="color: gray;"><span style="font-weight: bold;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
 <span style="font-style: italic; color: gray;">ACM SIGOPS 30th Symposium on Operating Systems Principles (SOSP 2024)</span><br>
 <a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
 <a class="badge badge-primary" style="color:white ;  margin-right: 5px;" href="https://github.com/asprasad/treebeard" target="_blank"><i class="fas fa-file-code" style="color:white;"></i> Code</a>
-
-<br><br>
+<br>
 
 <span style="font-weight: bold;">Treebeard: An Optimizing Compiler for Decision Tree Based ML Inference</span><br>
-<span style="color: gray;"><span style="font-weight: bold;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
 <span style="font-style: italic; color: gray;"> 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)</span><br>
 <a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/Treebeard-MICRO22.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
 <a class="badge badge-primary" style="color:white ;  margin-right: 5px;" href="https://github.com/asprasad/treebeard" target="_blank"><i class="fas fa-file-code" style="color:white;"></i> Code</a>
-
-<br><br>
+<br>
 
 <span style="font-weight: bold;">Incremental Diagram Layout for Automated Model Migration</span><br>
 <span style="color: gray;">Ulf Ruegg, Rajneesh Lakkundi,
-<span style="font-weight: bold;">Ashwin Prasad</span>, Anand Kodaganur, Christoph Daniel Schulze, Reinhard von Hanxleden</span><br>
+<span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, Anand Kodaganur, Christoph Daniel Schulze, Reinhard von Hanxleden</span><br>
 <span style="font-style: italic; color: gray;">ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MoDELS 2016)</span><br>
 <a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/IncrementalLayout-MODELS16.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
+<br>
+
+<span style="font-weight: bold;">Automatic Compilation of MATLAB Programs for Synergistic Execution on Heterogeneous Processors</span><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, Jayvant Anantpur, R Govindarajan</span><br>
+<span style="font-style: italic; color: gray;">ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2011)</span><br>
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/Megha-PLDI11.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
+<br>
+
+<span style="font-weight: bold;">Accelerating Signal Processing Applications Using Graphics Processors</span><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, Pramod Subramanyan</span><br>
+<span style="font-style: italic; color: gray;">National Conference on Communications (NCC 2008)</span><br>
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/SignalProcessing-NCC08.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
+<br>
+
+## Other Articles
+<a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2c16ef0bd67017d5562fb8d5124977627ae871a7" target="_blank" style="margin-right: 10px; font-weight: bold;">
+Compiler Optimizations to Execute MATLAB Programs on Memory Constrained GPUs</a><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, R Govindarajan</span><br>
+<span style="font-style: italic; color: gray;">1st Asia-Pacific Programming Languages and Compilers Workshop (APPLC ’12)</span><br>
+<br>
+
+<a href="https://www.microwavejournal.com/articles/5454-gaining-spectral-efficiency-with-ofdm" target="_blank" style="margin-right: 10px; font-weight: bold;">
+Gaining Spectral Efficiency with OFDM</a><br>
+<span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span></span><br>
+<span style="font-style: italic; color: gray;">Microwave Journal, October 2007</span><br>
+<br>
