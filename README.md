@@ -9,7 +9,7 @@
     <p style="font-size: 16px; text-align: center; margin-top: 20px;">
       Dept of Computer Science and Automation<br>
       Indian Institute of Science<br>
-      <span style="font-size: 14px; font-weight: italics; color: gray;">and</span><br>
+      <span style="font-size: 14px; font-style: italic; color: gray;">and</span><br>
       National Instruments R&D
     </p>
     
@@ -47,4 +47,9 @@ In particular, I am interested in designing systems that enable high-productivit
 ## Research
 
 ## Publications
-<a class="badge badge-success" style="color:white ; font-size:1.2rem!important; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> PDF</a>
+
+<span style="font-weight: bold;">SilvanForge: A Schedule Guided Retargetable Compiler for Decision Tree Inference</span><br>
+<span style="color: gray;">Ashwin Prasad, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
+<span style="font-style: italic; color: gray;">ACM SIGOPS 30th Symposium on Operating Systems Principles (SOSP 2024)</span><br>
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> PDF</a> 
+<a class="badge badge-primary" style="color:white ;  margin-right: 5px;" href="https://github.com/asprasad/treebeard" target="_blank"><i class="fas fa-file-code" style="color:white;"></i> Code</a>
