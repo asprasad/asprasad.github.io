@@ -38,12 +38,13 @@
     <img src="images/AshwinPrasad.jpg" alt="Ashwin Prasad" style="width: 100%; max-width: 400px;">
   </div>
 </div>
-I am a PhD candidate in the <a href="https://www.csa.iisc.ac.in/" target="_blank"> Department of Computer Science and Automation</a> at the <a href="https://iisc.ac.in/">Indian
-Institute of Science</a>, Bangalore where I am advised by <a href="https://www.csa.iisc.ac.in/~govind/">Prof. R Govindarajan</a> and <a href="https://www.csa.iisc.ac.in/~udayb/">Prof. Uday Bondhugula</a>. Simultaneously, I am also a Chief Engineer at <a href="https://www.ni.com/">National Instruments R&D</a>, Bangalore.
+I am a computer systems researcher interested in designing and implementing efficient and high-performance computer systems.
+My time is split between research as a PhD candidate in the <a href="https://www.csa.iisc.ac.in/" target="_blank"> Department of Computer Science and Automation</a> at the <a href="https://iisc.ac.in/">Indian
+Institute of Science</a>, Bangalore and industrial research and development through my role as a Chief Engineer at <a href="https://www.ni.com/">National Instruments R&D</a>, Bangalore. At IISc, I am advised by <a href="https://www.csa.iisc.ac.in/~govind/">Prof. R Govindarajan</a> and <a href="https://www.csa.iisc.ac.in/~udayb/">Prof. Uday Bondhugula</a>. 
 
- I am a computer systems researcher interested in designing and implementing efficient and high-performance computer systems. In particular, I am interested in designing systems that enable high-productivity and portable performance through domain-specific compilers, programming models, and runtimes that provide portable performance across targets like CPUs, GPUs and FPGAs. My current research focuses on the design of optimizing compilers and code generators for the domains of machine learning and data science.
+In particular, I am interested in designing systems that enable high-productivity and portable performance through domain-specific compilers, programming models, and runtimes that provide portable performance across targets like CPUs, GPUs and FPGAs. My current research focuses on the design of optimizing compilers and code generators for the domains of machine learning and data science.
 
 ## Research
 
 ## Publications
- 
+<a class="badge badge-success" style="color:white ; font-size:1.2rem!important; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> PDF</a>
