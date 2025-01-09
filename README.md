@@ -8,7 +8,9 @@
     <!-- Department Information -->
     <p style="font-size: 16px; text-align: center; margin-top: 20px;">
       Dept of Computer Science and Automation<br>
-      Indian Institute of Science
+      Indian Institute of Science<br>
+      <span style="font-size: 14px; font-weight: italics; color: gray;">and</span><br>
+      National Instruments R&D
     </p>
     
     <!-- Social Media Links -->
@@ -19,7 +21,7 @@
       <a href="https://github.com/asprasad" target="_blank" style="margin-right: 10px; font-size: 16px;">
         <i class="fab fa-github" style="font-size: 20px; color: white;"></i> GitHub
       </a>
-      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-left: 10px; font-size: 16px;">
+      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-right: 10px; font-size: 16px;">
         <i class="fas fa-user-graduate" style="font-size: 20px;"></i> Google Scholar
       </a>
     </div>
