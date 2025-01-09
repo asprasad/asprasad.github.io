@@ -6,27 +6,27 @@
 <div style="display: flex; align-items: center;">
   <div>
     <!-- Department Information -->
-    <p style="font-size: 18px; text-align: center; margin-top: 20px;">
-      Department of Computer Science and Automation<br>
+    <p style="font-size: 16px; text-align: center; margin-top: 20px;">
+      Dept of Computer Science and Automation<br>
       Indian Institute of Science
     </p>
     
     <!-- Social Media Links -->
     <div style="text-align: center; margin-top: 10px;">
-      <a href="https://www.linkedin.com/in/ashwin-prasad-2b0589160/" target="_blank" style="margin-right: 10px; font-size: 18px;">
-        <i class="fab fa-linkedin" style="font-size: 24px; color: #0A66C2;"></i> LinkedIn
+      <a href="https://www.linkedin.com/in/ashwin-prasad-2b0589160/" target="_blank" style="margin-right: 10px; font-size: 16px;">
+        <i class="fab fa-linkedin" style="font-size: 20px; color: #0A66C2;"></i> LinkedIn
       </a>
-      <a href="https://github.com/asprasad" target="_blank" style="margin-right: 10px; font-size: 18px;">
-        <i class="fab fa-github" style="font-size: 24px; color: black;"></i> GitHub
+      <a href="https://github.com/asprasad" target="_blank" style="margin-right: 10px; font-size: 16px;">
+        <i class="fab fa-github" style="font-size: 20px; color: white;"></i> GitHub
       </a>
-      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-left: 10px; font-size: 18px;">
-        <i class="fas fa-user-graduate" style="font-size: 24px;"></i> Google Scholar
+      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-left: 10px; font-size: 16px;">
+        <i class="fas fa-user-graduate" style="font-size: 20px;"></i> Google Scholar
       </a>
     </div>
     
     <!-- Email -->
-    <p style="font-size: 18px; text-align: center; margin-top: 20px;">
-      <i class="fas fa-envelope" style="font-size: 24px; color: black; margin-right: 5px;"></i>
+    <p style="font-size: 16px; text-align: center; margin-top: 20px;">
+      <i class="fas fa-envelope" style="font-size: 20px; color: white; margin-right: 5px;"></i>
       [first name].[last name]@gmail.com
     </p>
   </div>
