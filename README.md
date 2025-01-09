@@ -49,7 +49,23 @@ In particular, I am interested in designing systems that enable high-productivit
 ## Publications
 
 <span style="font-weight: bold;">SilvanForge: A Schedule Guided Retargetable Compiler for Decision Tree Inference</span><br>
-<span style="color: gray;">Ashwin Prasad, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
+<span style="color: gray;"><span style="font-weight: bold;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
 <span style="font-style: italic; color: gray;">ACM SIGOPS 30th Symposium on Operating Systems Principles (SOSP 2024)</span><br>
-<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> PDF</a> 
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/SilvanForge-SOSP24.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
 <a class="badge badge-primary" style="color:white ;  margin-right: 5px;" href="https://github.com/asprasad/treebeard" target="_blank"><i class="fas fa-file-code" style="color:white;"></i> Code</a>
+
+<br><br>
+
+<span style="font-weight: bold;">Treebeard: An Optimizing Compiler for Decision Tree Based ML Inference</span><br>
+<span style="color: gray;"><span style="font-weight: bold;">Ashwin Prasad</span>, Sampath Rajendra, Kaushik Rajan, R Govindarajan, Uday Bondhugula</span><br>
+<span style="font-style: italic; color: gray;"> 55th IEEE/ACM International Symposium on Microarchitecture (MICRO 2022)</span><br>
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/Treebeard-MICRO22.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
+<a class="badge badge-primary" style="color:white ;  margin-right: 5px;" href="https://github.com/asprasad/treebeard" target="_blank"><i class="fas fa-file-code" style="color:white;"></i> Code</a>
+
+<br><br>
+
+<span style="font-weight: bold;">Incremental Diagram Layout for Automated Model Migration</span><br>
+<span style="color: gray;">Ulf Ruegg, Rajneesh Lakkundi,
+<span style="font-weight: bold;">Ashwin Prasad</span>, Anand Kodaganur, Christoph Daniel Schulze, Reinhard von Hanxleden</span><br>
+<span style="font-style: italic; color: gray;">ACM/IEEE International Conference on Model Driven Engineering Languages and Systems (MoDELS 2016)</span><br>
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/IncrementalLayout-MODELS16.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
