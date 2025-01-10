@@ -22,8 +22,8 @@
       <a href="https://github.com/asprasad" target="_blank" style="margin-right: 10px; font-size: 16px;">
         <i class="fab fa-github" style="font-size: 20px; color: white;"></i> GitHub
       </a>
-      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-right: 10px; font-size: 16px;">
-        <!-- <i class="fas fa-user-graduate" style="font-size: 20px;"></i> --> <i title="Google Scholar" class="ai ai-google-scholar" style="font-size: 20px;"> Google Scholar
+        <!-- <i class="fas fa-user-graduate" style="font-size: 20px;"></i> -->       
+      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-right: 10px; font-size: 16px;"> <i title="Google Scholar" class="ai ai-google-scholar" style="font-size: 20px;"></i> Google Scholar
       </a>
     </div>
     
