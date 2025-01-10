@@ -23,7 +23,7 @@
         <i class="fab fa-github" style="font-size: 20px; color: white;"></i> GitHub
       </a>
         <!-- <i class="fas fa-user-graduate" style="font-size: 20px;"></i> -->       
-      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-right: 10px; font-size: 16px;"> <i title="Google Scholar" class="ai ai-google-scholar" style="font-size: 20px;"></i> Google Scholar
+      <a href="https://scholar.google.com/citations?user=DUN8zu0AAAAJ&hl=en" target="_blank" style="margin-right: 10px; font-size: 16px;"> <i title="Google Scholar" class="ai ai-google-scholar" style="font-size: 20px; color: white;"></i> Google Scholar
       </a>
     </div>
     
