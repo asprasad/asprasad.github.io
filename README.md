@@ -74,7 +74,7 @@ With over 20 years of experience in industry and academia, I have authored paper
 
 <span style="font-weight: bold;">Automatic Compilation of MATLAB Programs for Synergistic Execution on Heterogeneous Processors</span><br>
 <span style="font-style: italic; color: gray;">Master's Thesis, Indian Institute of Science</span><br>
-<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/MastersThesis-Ashwin.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Paper</a> 
+<a class="badge badge-success" style="color:white ; margin-right: 5px;" href="papers/MastersThesis-Ashwin.pdf" target="_blank"><i class="fas fa-file-pdf" style="color:white;"></i> Thesis</a> 
 <br>
 
 <span style="font-weight: bold;">Automatic Compilation of MATLAB Programs for Synergistic Execution on Heterogeneous Processors</span><br>
