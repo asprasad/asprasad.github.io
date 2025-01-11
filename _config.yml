@@ -2,5 +2,3 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-sitemap
-include:
-  - assets/css/style.css
