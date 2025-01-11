@@ -39,11 +39,13 @@
     <img src="images/AshwinPrasad.jpg" alt="Ashwin Prasad" style="width: 100%; max-width: 400px;">
   </div>
 </div>
-I am a computer systems researcher interested in designing and implementing efficient and high-performance computer systems.
-My time is split between research as a PhD candidate in the <a href="https://www.csa.iisc.ac.in/" target="_blank"> Department of Computer Science and Automation</a> at the <a href="https://iisc.ac.in/">Indian
-Institute of Science</a>, Bangalore and industrial research and development through my role as a Chief Engineer at <a href="https://www.ni.com/">National Instruments R&D</a>, Bangalore. At IISc, I am advised by <a href="https://www.csa.iisc.ac.in/~govind/">Prof. R Govindarajan</a> and <a href="https://www.csa.iisc.ac.in/~udayb/">Prof. Uday Bondhugula</a>. 
+I am a computer systems researcher passionate about designing and implementing efficient, high-performance computer systems. My work focuses on bridging the gap between academic research and industry by identifying and solving impactful problems and translating solutions into production-ready systems.
 
-In particular, I am interested in designing systems that enable high-productivity and portable performance through domain-specific compilers, programming models, and runtimes that provide portable performance across targets like CPUs, GPUs and FPGAs. My current research focuses on the design of optimizing compilers and code generators for the domains of machine learning and data science.
+I divide my time between research as a PhD candidate in the <a href="https://www.csa.iisc.ac.in/" target="_blank">Department of Computer Science and Automation</a> at the <a href="https://iisc.ac.in/">Indian Institute of Science</a>, Bangalore, and industrial research and development as a Chief Engineer at <a href="https://www.ni.com/">National Instruments R&D</a>, Bangalore. At IISc, I am advised by <a href="https://www.csa.iisc.ac.in/~govind/">Prof. R. Govindarajan</a> and <a href="https://www.csa.iisc.ac.in/~udayb/">Prof. Uday Bondhugula</a>.
+
+My research centers on enabling high productivity and portable performance in computer systems through domain-specific compilers, programming models, and runtimes. I design systems that deliver portable performance across diverse targets such as CPUs, GPUs, and FPGAs. Currently, my work focuses on optimizing compilers and code generators for machine learning and data science workloads.
+
+With over 20 years of experience in industry and academia, I have authored papers at top-tier venues like SOSP, MICRO, and PLDI. My work reflects my commitment to advancing the state-of-the-art in computer systems while creating practical solutions that have real-world impact.
 
 ## Research
 
