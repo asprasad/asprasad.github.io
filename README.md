@@ -45,9 +45,14 @@ I divide my time between research as a PhD candidate in the <a href="https://www
 
 My research centers on enabling high productivity and portable performance in computer systems through domain-specific compilers, programming models, and runtimes. I design systems that deliver portable performance across diverse targets such as CPUs, GPUs, and FPGAs. Currently, my work focuses on optimizing compilers and code generators for machine learning and data science workloads.
 
-With over 20 years of experience in industry and academia, I have authored papers at top-tier venues like SOSP, MICRO, and PLDI. My work reflects my commitment to advancing the state-of-the-art in computer systems while creating practical solutions that have real-world impact.
-
 ## Research
+Over the course of my career, I have worked on a diverse set of research topics. My research has resulted in papers at top-tier venues like SOSP, MICRO, and PLDI. The focus of my work has been to advance the state-of-the-art in computer systems while creating practical solutions that have real-world impact.
+
+During my PhD, I worked on building Treebeard, an optimizing compiler for decision tree inference. Treebeard is the first extensible compiler infrastructure for decision tree inference, incorporating a suite of novel optimizations to deliver consistent, portable high-performance across diverse target processors. My work on Treebeard has been published at MICRO 2022 and SOSP 2024. Our SOSP paper is only the third paper from Indian academia to be accepted at SOSP in its 50-year history!
+
+As a part of my Master's research at IISc, I developed a system to automatically compile MATLAB programs for execution on heterogeneous machines with CPUs and GPUs. This work was published at PLDI 2011 and was the first to demonstrate the automatic compilation of MATLAB programs for GPUs. This was the first PLDI paper from Indian academia in over two decades!
+
+At National Instruments, I have focused on building and mentoring high-performance teams that solve challenging business relevant problems. I have worked on problems ranging from system level optimizations in LabVIEW to reduce the memory usage and execution time of the LabVIEW based applications, to building distributed architectures to store and analyze large volumes of test and measurement data. I have also worked on LLM based applications (like SQL generation for data analytics), graph layout algorithms to format LabVIEW code, and writing high-performance signal processing algorithms for RF applications on CPUs and GPUs.
 
 ## Publications
 
@@ -94,10 +99,9 @@ With over 20 years of experience in industry and academia, I have authored paper
 Compiler Optimizations to Execute MATLAB Programs on Memory Constrained GPUs</a><br>
 <span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span>, R Govindarajan</span><br>
 <span style="font-style: italic; color: gray;">1st Asia-Pacific Programming Languages and Compilers Workshop (APPLC ’12)</span><br>
-<br>
 
 <a href="https://www.microwavejournal.com/articles/5454-gaining-spectral-efficiency-with-ofdm" target="_blank" style="margin-right: 10px; font-weight: bold;">
 Gaining Spectral Efficiency with OFDM</a><br>
 <span style="color: gray;"><span style="font-weight: bold; text-decoration: underline;">Ashwin Prasad</span></span><br>
 <span style="font-style: italic; color: gray;">Microwave Journal, October 2007</span><br>
-<br>
+
