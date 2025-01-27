@@ -52,7 +52,7 @@ During my PhD, I worked on building Treebeard, an optimizing compiler for decisi
 
 As a part of my Master's research at IISc, I developed a system to automatically compile MATLAB programs for execution on heterogeneous machines with CPUs and GPUs. This work was published at PLDI 2011 and was the first to demonstrate the automatic compilation of MATLAB programs for GPUs. This was the first PLDI paper from Indian academia in over two decades!
 
-At National Instruments, I have focused on building and mentoring high-performance teams that solve challenging business relevant problems. I have worked on problems ranging from system level optimizations in LabVIEW to reduce the memory usage and execution time of the LabVIEW based applications, to building distributed architectures to store and analyze large volumes of test and measurement data. I have also worked on LLM based applications (like SQL generation for data analytics), graph layout algorithms to format LabVIEW code, and writing high-performance signal processing algorithms for RF applications on CPUs and GPUs.
+At National Instruments, I have focused on building and mentoring high-performance teams that solve challenging business relevant problems. I have worked on problems ranging from system level optimizations in LabVIEW to reduce the memory usage and execution time of the LabVIEW based applications, to building distributed architectures to store and analyze large volumes of test and measurement data. I have also worked on LLM based applications (like SQL generation for data analytics), graph layout algorithms to format LabVIEW code, and designing and implementing systems for high-performance signal processing applications on CPUs and GPUs.
 
 ## Publications
 
